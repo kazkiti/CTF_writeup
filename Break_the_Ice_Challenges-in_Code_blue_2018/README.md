@@ -10,7 +10,9 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 ・Faster(100pts)　★I solved it.
 
-     [/faster(web:100pts).md][writeup]
+[Google](https://www.google.co.jp/)
+
+[/faster(web:100pts).md][writeup]
 
 ・Force(100pts)
 
