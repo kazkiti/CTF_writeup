@@ -1,4 +1,4 @@
-# ▼▼▼QRcode(?:450pts)▼▼▼　
+# ▼▼▼QRBeast(Forensic:450pts)▼▼▼　
 
 Partially destroyed QR code was given as below
 
