@@ -10,7 +10,7 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 ・Faster(100pts)　★I solved it.
 
-     [writeup](faster(web:100pts).md)
+     [writeup](/faster(web:100pts).md)
 
 ・Force(100pts)
 
