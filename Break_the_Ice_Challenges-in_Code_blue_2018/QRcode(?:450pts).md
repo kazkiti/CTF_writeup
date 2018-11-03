@@ -46,7 +46,7 @@ XXXXXXX_?____X_XXX_X_XXXX
 
 $ python sqrd.py test.txt 
 
-SL7{AR_Code_rec0vEry_AsiEr}
+`SL7{AR_Code_rec0vEry_AsiEr}`
 
 ↓
 
