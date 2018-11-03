@@ -56,6 +56,13 @@ Even though it is `QR`, it seems that it is `AR` or wrong conversion
 
 ---
 
+I searched the QR code mechanism for google
+
+
+
+(Reprint:http://nlab.itmedia.co.jp/nl/articles/1801/31/news008.html)
+
+---
 I filled up the data part of the QR code one character at a time and identified it
 
 ↓finally
