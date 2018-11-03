@@ -1,6 +1,22 @@
 # ▼▼▼fast(web:?)▼▼▼
 
 ```
+<script>console.log('Post decode3([Feed-This]) as [SL7] as fast as you can, then only you will get flag')</script>
+```
+
+↓
+
+It is written that it is only necessary to `decode3` the value of the `Feed-This` header and add it to the `SL7` parameter and transmit it
+
+Moreover, it seems to have to send it fast
+
+---
+
+I wrote the code in python as below
+
+↓
+
+```
 import binascii
 import requests
 import base64
@@ -10,7 +26,7 @@ proxy={"http": "http://127.0.0.1:8080"}
 
 url='http://web3.sl7ctf.cf/'
 payload = {'SL7': 'value1'}
-headers = {'User-Agent': 'Sample Header','Cookie':'PHPSESSID=ulo65saf1ntv5acpkr0o484i86'}
+headers = {'Cookie':'PHPSESSID=ulo65saf1ntv5acpkr0o484i86'}
 
 #SL7
 r=requests.post(url, headers=headers,data=payload,proxies=proxy)
@@ -32,11 +48,9 @@ value2=base64.b64decode(value2)
 print (value2)
 print ("---------")
 
-
-
 url='http://web3.sl7ctf.cf/'
 payload = {'SL7': value2 }
-headers = {'User-Agent': 'Sample Header','Cookie':'PHPSESSID=ulo65saf1ntv5acpkr0o484i86'}
+headers = {'Cookie':'PHPSESSID=ulo65saf1ntv5acpkr0o484i86'}
 
 s=requests.post(url, headers=headers,data=payload,proxies=proxy)
 print (s.content)
