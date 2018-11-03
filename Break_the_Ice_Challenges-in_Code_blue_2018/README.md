@@ -6,11 +6,11 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 ## 【Web】
 
-・Faster(100pts)
+・Faster(100pts)　★I solved it.
 
 ・Force(100pts)
 
-・Stellar collision(150pts)
+・Stellar collision(150pts)　★I solved it.
 
 ・Router(700pts)
 
@@ -18,7 +18,7 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 ・KeyMontser(450pts)
 
-・QRBeast(500pts)
+・QRBeast(500pts)　★I solved it.
 
 ## 【IoT Challenge】
 
@@ -26,12 +26,12 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 ## 【pwb】
 
-・pwn1(350pts)
+・pwn1(350pts)　★I solved it.
 
 ## 【crypto】
 
 ・Tap(100pts)
 
-・?(100pts)
+・?(100pts)　★I solved it.
 
 ・?(?pts)
