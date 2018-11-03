@@ -269,7 +269,7 @@ body {
 
 ↓
 
-Collision problem with md5
+Collision problem with `md5`
 
 ---
 
