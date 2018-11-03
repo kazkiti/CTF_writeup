@@ -10,9 +10,13 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 ・Faster(100pts)　★I solved it.
 
+    [writeup](https://github.com/kazkiti/CTF_writeup/blob/master/Break_the_Ice_Challenges-in_Code_blue_2018/faster(web:100pts).md)
+
 ・Force(100pts)
 
 ・Stellar collision(150pts)　★I solved it.
+
+    [writeup](https://github.com/kazkiti/CTF_writeup/blob/master/Break_the_Ice_Challenges-in_Code_blue_2018/Stellar%20collision(web:150pts).md)
 
 ・Router(700pts)
 
@@ -21,6 +25,7 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 ・KeyMontser(450pts)
 
 ・QRBeast(500pts)　★I solved it.
+
     [writeup](https://github.com/kazkiti/CTF_writeup/blob/master/Break_the_Ice_Challenges-in_Code_blue_2018/QRBeast(Forensic:500pts).md)
 
 ### 【IoT Challenge】
@@ -42,7 +47,7 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 ---
 
 ## Result
-
+)
 5th at 1200 pts
 
 scoreboard of top 5 teams.
