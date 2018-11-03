@@ -1,4 +1,4 @@
-# ▼▼▼Collision(Web:100)▼▼▼
+# ▼▼▼Stellar collision(Web:150pts)▼▼▼
 
 ```
 GET /? HTTP/1.1
