@@ -10,6 +10,8 @@ It is written that it is only necessary to `decode3` the value of the `Feed-This
 
 Moreover, it seems to have to send it fast
 
+As a result, decode 3 means to decode three times
+
 ---
 
 I wrote the code in python as below
