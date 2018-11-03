@@ -8,9 +8,9 @@
 
 It is written that it is only necessary to `decode3` the value of the `Feed-This` header and add it to the `SL7` parameter and transmit it
 
-Moreover, it seems to have to send it fast
+Moreover, it seems to have to send it `fast`
 
-As a result, decode 3 means to decode three times
+As a result, `decode3` means to `decode three times`
 
 ---
 
