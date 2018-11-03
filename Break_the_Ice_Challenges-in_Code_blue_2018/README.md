@@ -21,6 +21,7 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 ・KeyMontser(450pts)
 
 ・QRBeast(500pts)　★I solved it.
+<a href="https://github.com/kazkiti/CTF_writeup/blob/master/Break_the_Ice_Challenges-in_Code_blue_2018/QRBeast(Forensic:500pts).md"></a>
 
 ### 【IoT Challenge】
 
