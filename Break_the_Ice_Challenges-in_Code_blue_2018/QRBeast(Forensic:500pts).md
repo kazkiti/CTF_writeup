@@ -63,6 +63,9 @@ I searched the QR code mechanism for google
 (Reprint:http://nlab.itmedia.co.jp/nl/articles/1801/31/news008.html)
 
 ↓
+
+I found that the `1st`, `5th`, `14th`, `22nd` and `26th` letters are not perfect.
+
 ●L7{●R_Code_r●c0vEry_●Asi●r}
 
 ---
