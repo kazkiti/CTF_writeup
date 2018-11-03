@@ -35,3 +35,9 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 ・?(100pts)　★I solved it.
 
 ・?(?pts)
+
+---
+
+## 【Result】
+
+<img src="bset5.jpg"></img>
