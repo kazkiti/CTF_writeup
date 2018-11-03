@@ -1,4 +1,4 @@
-# ▼▼▼fast(web:?)▼▼▼
+# ▼▼▼fast(web:?pts)▼▼▼
 
 ```
 <script>console.log('Post decode3([Feed-This]) as [SL7] as fast as you can, then only you will get flag')</script>
