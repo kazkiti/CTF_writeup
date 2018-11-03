@@ -38,6 +38,8 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 ---
 
-## 【Result】
+# 【Result】
+
+5th at 1200 pts
 
 <img src="bset5.jpg"></img>
