@@ -1,10 +1,18 @@
 # ▼▼▼QRcode(?:450pts)▼▼▼　
 
-We used the following tool
+Partially destroyed QR code was given as below
+
+<img src="QRCOde.png"></img>
+
+---
+
+I used the following tool
 `https://github.com/waidotto/strong-qr-decoder`
 
 ↓
+
 test.txt
+
 ```
 XXXXXXX_?_X___X___XXXXXXX
 X_____X_?X___XXX__X_____X
