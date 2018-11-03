@@ -51,7 +51,7 @@ SL7{AR_Code_rec0vEry_AsiEr}
 
 As a result, submit did not indicate the correct flag
 
-Even though it is QR, it seems that it is AR or wrong conversion
+Even though it is `QR`, it seems that it is `AR` or wrong conversion
 
 ---
 
