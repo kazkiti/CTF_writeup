@@ -63,7 +63,7 @@ I searched the QR code mechanism for google
 (Reprint:http://nlab.itmedia.co.jp/nl/articles/1801/31/news008.html)
 
 ↓
-●L7{●R_Code_●ec0vEry_AsiEr}
+●L7{●R_Code_r●c0vEry_●Asi●r}
 
 ---
 I filled up the data part of the QR code one character at a time and identified it
