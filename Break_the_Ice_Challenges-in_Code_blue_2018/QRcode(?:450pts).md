@@ -1,4 +1,4 @@
-# ▼▼▼(QRcode:450pts)▼▼▼　
+# ▼▼▼QRcode(?:450pts)▼▼▼　
 
 We used the following tool
 `https://github.com/waidotto/strong-qr-decoder`
