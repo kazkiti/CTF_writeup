@@ -44,6 +44,7 @@ XXXXXXX_?____X_XXX_X_XXXX
 ↓
 
 $ python sqrd.py test.txt 
+
 SL7{AR_Code_rec0vEry_AsiEr}
 
 ↓
@@ -89,4 +90,5 @@ xxxxxxx_?____x_xxx_x_xxxx
 ↓
 
 $ python sqrd.py test.txt 
+
 `SL7{QR_Code_rec0vEry_EAsiEr}`
