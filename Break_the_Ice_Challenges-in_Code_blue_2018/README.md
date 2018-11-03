@@ -9,13 +9,11 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 ### 【Web】
 
 ・Faster(100pts)　★I solved it.
-
-    [writeup](faster(web:100pts).md)
+     [writeup](faster(web:100pts).md)
 
 ・Force(100pts)
 
 ・Stellar collision(150pts)　★I solved it.
-
     [writeup](Stellar%20collision(web:150pts).md)
 
 ・Router(700pts)
@@ -25,7 +23,6 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 ・KeyMontser(450pts)
 
 ・QRBeast(500pts)　★I solved it.
-
     [writeup](QRBeast(Forensic:500pts).md)
 
 ### 【IoT Challenge】
