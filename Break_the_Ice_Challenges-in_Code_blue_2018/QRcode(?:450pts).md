@@ -7,6 +7,7 @@ Partially destroyed QR code was given as below
 ---
 
 I used the following tool
+
 `https://github.com/waidotto/strong-qr-decoder`
 
 ↓
