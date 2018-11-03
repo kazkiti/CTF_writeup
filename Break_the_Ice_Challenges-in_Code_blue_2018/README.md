@@ -32,6 +32,6 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 ・Tap(100pts)
 
-・?(?pts)
+・?(100pts)
 
 ・?(?pts)
