@@ -42,4 +42,6 @@ In Code blue 2018 `https://codeblue.jp/2018/contests/detail_05/`)
 
 5th at 1200 pts
 
+scoreboard of top 5 teams.
+
 <img src="bset5.jpg"></img>
